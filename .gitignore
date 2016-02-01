@@ -1,0 +1,11 @@
+﻿
+/packages
+/TestResults
+*.user
+/.vs
+/Fleeting/bin
+/Fleeting/obj
+/Fleeting.Test/bin
+/Fleeting.Test/obj
+/FleetingPackage/bin
+/FleetingPackage/obj

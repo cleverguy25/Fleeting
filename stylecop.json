@@ -8,8 +8,8 @@
   "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
   "settings": {
     "documentationRules": {
-      "companyName": "Palador Open Source",
-      "copyrightText": "Copyright (c) Palador Open Source. All rights reserved. See License.txt in the project root for license information."
+      "companyName": "cleve.littlefield Open Source",
+      "copyrightText": "Copyright (c) cleve.littlefield Open Source. All rights reserved. See License.txt in the project root for license information."
     }
   }
 }

@@ -1,5 +1,5 @@
-﻿// <copyright file="SqlRetryEventSource.cs" company="Palador Open Source">
-//   Copyright (c) Palador Open Source. All rights reserved. See License.txt in the project root for license information.
+﻿// <copyright file="SqlRetryEventSource.cs" company="cleve.littlefield Open Source">
+//   Copyright (c) cleve.littlefield Open Source. All rights reserved. See License.txt in the project root for license information.
 // </copyright>
 
 namespace Fleeting.Sql

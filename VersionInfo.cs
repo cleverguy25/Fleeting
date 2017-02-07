@@ -1,10 +1,10 @@
-﻿// <copyright file="VersionInfo.cs" company="Palador Open Source">
-//   Copyright (c) Palador Open Source. All rights reserved. See License.txt in the project root for license information.
+﻿// <copyright file="VersionInfo.cs" company="cleve.littlefield Open Source">
+//   Copyright (c) cleve.littlefield Open Source. All rights reserved. See License.txt in the project root for license information.
 // </copyright>
 
 using System.Reflection;
 
-[assembly: AssemblyCompany("Palador Open Source")]
+[assembly: AssemblyCompany("cleve.littlefield Open Source")]
 [assembly: AssemblyProduct("Fleeting")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 
